@@ -45,7 +45,7 @@ DESCRIPTION: process.env.DESCRIPTION || "*© 𝗣ᴏᴡᴇʀᴇᴅ ʙʏ 𝗠𝙰
 // add bot owner name    
 ALIVE_IMG: process.env.ALIVE_IMG || "https://i.postimg.cc/6qsWSKXV/Screenshot-20250505-154041-1-1.jpg",
 // add img for alive msg
-LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *MAFIA-MD*⚡",
+LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *NONAME-MD*⚡",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
